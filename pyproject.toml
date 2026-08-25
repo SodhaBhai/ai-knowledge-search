@@ -1,0 +1,10 @@
+[project]
+name = "ai-knowledge-search"
+version = "0.1.0"
+description = "AI-powered personal knowledge search system"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+]
